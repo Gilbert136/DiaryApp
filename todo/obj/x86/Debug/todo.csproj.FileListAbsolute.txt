@@ -1,0 +1,10 @@
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\bin\Debug\todo.exe
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\bin\Debug\todo.pdb
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\obj\x86\Debug\todo.addTodo.resources
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\obj\x86\Debug\todo.Form1.resources
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\obj\x86\Debug\todo.Properties.Resources.resources
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\obj\x86\Debug\todo.csproj.GenerateResource.Cache
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\obj\x86\Debug\todo.exe
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\obj\x86\Debug\todo.pdb
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\obj\x86\Debug\todo.addTodoList.resources
+C:\Users\Gilbert\documents\visual studio 2010\Projects\todo\todo\obj\x86\Debug\todo.csprojResolveAssemblyReference.cache
